@@ -16,7 +16,7 @@ class Login extends Component{
                     </div>
                 </form>
                 <button class = "entrada_botao" id = "esquecisenha">ESQUECI MINHA SENHA</button>
-                <button class = "entrada_botao" id = "cadastrar">CADASTRARAR</button>
+                <button class = "entrada_botao" id = "cadastrar">CADASTRAR</button>
             </React.Fragment>
         )    
     }
